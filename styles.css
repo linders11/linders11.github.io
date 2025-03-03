@@ -5,4 +5,10 @@
 
 body {
     font-family: 'CustomFont', 'Wingdings', Arial, Helvetica;
+    font-size: large;
+}
+
+p {
+    font-family: 'CustomFont', 'Wingdings', Arial, Helvetica;
+    font-size: small;
 }
