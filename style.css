@@ -2,7 +2,3 @@
     font-family: 'CustomFont';
     src: url('fonts/futura medium condensed bt.ttf') format('truetype');
 }
-
-body {
-    font-family: 'CustomFont', sans-serif;
-}
